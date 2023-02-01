@@ -1,0 +1,25 @@
+<meta>
+	<info author="Meta Scripts" type="script" name="[Davetsiz]" version="0.1.0" />
+	<!--Settings-->
+	<script src="panel/util_c.lua" type="client" />
+	<script src="settings/settings.lua" type="shared" />
+		<file src="settings/profiles/pr1.png" />
+		<file src="settings/profiles/pr2.png" />
+		<file src="settings/profiles/pr3.png" />
+		<file src="settings/profiles/pr4.png" />
+		<file src="settings/profiles/pr5.png" />
+		<file src="settings/profiles/pr6.png" />
+		<file src="settings/profiles/pr7.png" />
+			<!--Games İmage-->
+			<file src="settings/games_img/race.jpg" />
+			<file src="settings/games_img/arena.jpg" />
+			<file src="settings/games_img/zombie.jpg" />
+
+	<script src="panel/gui.lua" type="client" />
+
+		<file src="panel/imgs/test.png" />
+		<file src="panel/imgs/background.png" />
+		<file src="panel/imgs/arena.jpg" />
+
+	<min_mta_version server="1.3.4-0.00000" client="1.5.2-9.07903"></min_mta_version>
+</meta>
